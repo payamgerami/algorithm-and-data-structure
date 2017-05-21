@@ -1,7 +1,10 @@
 # Algorithm and Data Structure
-Solving algorithms and data structure problems using Python
+Solve algorithms and data structure problems using Python
 
 - Lists
-  - Jump over numbers
-  - Digit Sum
-  - Numeric Palindromes
+	* Jump over numbers
+	* Digit Sum
+	* Numeric Palindromes
+- Dynamic Programming
+	* Longest increasing subsequence
+	* Count the paths
